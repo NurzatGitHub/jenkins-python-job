@@ -1,0 +1,1 @@
+print("Nurzat Turganbek")
